@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TV Channels</string>
+    <string name="search_hint">Поиск каналов...</string>
+    <string name="search_button">Поиск</string>
+    <string name="cancel_button">Отмена</string>
+    <string name="no_results">Результаты не найдены</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    <string name="retry">Повторить</string>
+    <string name="favorites">Избранное</string>
+    <string name="all_channels">Все каналы</string>
+    <string name="categories">Категории</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <string name="update_playlist">Обновить плейлист</string>
+    <string name="clear_cache">Очистить кэш</string>
+    <string name="playlist_updated">Плейлист обновлен</string>
+    <string name="playlist_update_failed">Ошибка обновления плейлиста</string>
+    <string name="cache_cleared">Кэш очищен</string>
+    <string name="last_update">Последнее обновление</string>
+    <string name="channels_count">Каналов в кэше</string>
+    <string name="channel_info">Информация о канале</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="no_channels_found">Каналы не найдены</string>
+    <string name="error_loading_channels">Ошибка загрузки каналов</string>
+    <string name="exit">Выход</string>
+    <string name="volume">Громкость</string>
+    <string name="mute">Без звука</string>
+    <string name="fullscreen">Полноэкранный режим</string>
+    <string name="channel_number">Канал %d</string>
+</resources> 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_update_playlist" type="id" />
+    <item name="action_clear_cache" type="id" />
+    <item name="action_about" type="id" />
+</resources> 

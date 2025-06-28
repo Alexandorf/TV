@@ -1,0 +1,2 @@
+rootProject.name = "TVChannels"
+include ':app' 
